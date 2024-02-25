@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on ML project on Network Intrusion Detection
 - 🤔 I’m looking for help with  ML project on Network Intrusion Detection
 - 💬 Ask me about RPA, Automation..
-- 📫 How to reach me: swapneil.basutkar@protonmail.com
+- 📫 How to reach me: swapneilbasutkar02@gmail.com
 - Blog: https://medium.com/@swapneil.basutkar
 <!--
 **swapneilbasutkar/swapneilbasutkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
