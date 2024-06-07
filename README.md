@@ -1,11 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Robocorp RPA
-- 🌱 I’m currently learning Robocorp bot development, Java, Machine Learning, Data Analysis
-- 👯 I’m looking to collaborate on ML project on Network Intrusion Detection
-- 🤔 I’m looking for help with  ML project on Network Intrusion Detection
-- 💬 Ask me about RPA, Automation..
+- 🔭 I’m currently working on AWS
 - 📫 How to reach me: swapneil.basutkar@protonmail.com
-- Blog: https://medium.com/@swapneil.basutkar
+- 💬 Blog: https://medium.com/@swapneil.basutkar
 <!--
 **swapneilbasutkar/swapneilbasutkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
