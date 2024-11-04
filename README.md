@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapneil Basutkar</h1>
 <h3 align="center">Machine Learning enthusiast and backend developer</h3>
 
-- 🔭 I’m currently working on **Robot Framework and LLMs**
+- 🔭 I’m currently working on **Robot Framework, LLMs and AWS**
 
 <h3 align="left">Connect with me: swapneilbasutkar02@gmail.com</h3>
 
