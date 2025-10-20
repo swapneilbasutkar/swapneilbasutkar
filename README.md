@@ -1,38 +1,31 @@
-<!-- ===== Compact, Professional Tech Stack ===== -->
-
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <!-- One responsive image, neatly wrapped into 9 per line -->
+  <!-- Standard icons via skillicons.dev -->
   <img
     src="https://skillicons.dev/icons?i=aws,bootstrap,css,html,js,react,nodejs,python,flask,java,postgres,mongodb,docker,git,streamlit&perline=9"
     alt="AWS, Bootstrap, CSS, HTML, JavaScript, React, Node.js, Python, Flask, Java, PostgreSQL, MongoDB, Docker, Git, Streamlit"
   />
 </p>
 
-<!-- Subset of niche libraries as slim badges (keeps layout tight & consistent) -->
 <p align="center">
-  <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Drizzle%20ORM-141414?style=flat-square" alt="Drizzle ORM"/>
-  </a>
+  <!-- Custom logos for niche tools -->
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LangChain-141414?style=flat-square" alt="LangChain"/>
+    <img src="https://seeklogo.com/vector-logo/611654/langchain" alt="LangChain" width="36" height="36"/>
   </a>
   <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LangGraph-141414?style=flat-square" alt="LangGraph"/>
-  </a>
-  <a href="https://www.robotframework.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Robot%20Framework-141414?style=flat-square" alt="Robot Framework"/>
+    <img src="https://seeklogo.com/vector-logo/616429/langgraph" alt="LangGraph" width="36" height="36"/>
   </a>
   <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/ChromaDB-141414?style=flat-square" alt="ChromaDB"/>
+    <img src="https://seeklogo.com/vector-logo/482133/chroma" alt="ChromaDB" width="36" height="36"/>
   </a>
   <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Pinecone-141414?style=flat-square" alt="Pinecone"/>
+    <img src="https://images.seeklogo.com/logo-png/48/1/pinecone-icon-logo-png_seeklogo-482365.png" alt="Pinecone DB" width="36" height="36"/>
   </a>
-</p>
-
-<!-- Optional: super-subtle divider to separate sections cleanly -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-_-00000000?style=flat&logo=github&labelColor=eceff4&color=eceff4" alt="" />
+  <a href="https://www.robotframework.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=robotframework" alt="Robot Framework" width="36" height="36"/>
+  </a>
+  <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/apps/docs/static/img/drizzle.svg" alt="Drizzle ORM" width="36" height="36"/>
+  </a>
 </p>
