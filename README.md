@@ -1,60 +1,38 @@
-<h2 align="center">⚙️ Tech Stack</h2>
+<!-- ===== Compact, Professional Tech Stack ===== -->
 
-<div align="center">
+<h3 align="center">Tech Stack</h3>
 
-  <!-- 🌐 Frontend -->
-  <h4>🌐 Frontend</h4>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48"/>
+<p align="center">
+  <!-- One responsive image, neatly wrapped into 9 per line -->
+  <img
+    src="https://skillicons.dev/icons?i=aws,bootstrap,css,html,js,react,nodejs,python,flask,java,postgres,mongodb,docker,git,streamlit&perline=9"
+    alt="AWS, Bootstrap, CSS, HTML, JavaScript, React, Node.js, Python, Flask, Java, PostgreSQL, MongoDB, Docker, Git, Streamlit"
+  />
+</p>
+
+<!-- Subset of niche libraries as slim badges (keeps layout tight & consistent) -->
+<p align="center">
+  <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Drizzle%20ORM-141414?style=flat-square" alt="Drizzle ORM"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48"/>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LangChain-141414?style=flat-square" alt="LangChain"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48"/>
+  <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LangGraph-141414?style=flat-square" alt="LangGraph"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48"/>
+  <a href="https://www.robotframework.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Robot%20Framework-141414?style=flat-square" alt="Robot Framework"/>
   </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48"/>
+  <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ChromaDB-141414?style=flat-square" alt="ChromaDB"/>
   </a>
-  <br/><br/>
-  <h4>🧠 Backend</h4>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48"/>
+  <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Pinecone-141414?style=flat-square" alt="Pinecone"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"/>
-  </a>
-  <br/><br/>
-  <h4>🗄️ Databases</h4>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48"/>
-  </a>
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48"/>
-  </a>
-  <br/><br/>
-  <h4>☁️ DevOps & Tools</h4>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
-  </a>
-  <br/><br/>
-  <h4>📊 Data Science</h4>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="48" height="48"/>
-  </a>
-</div>
+</p>
+
+<!-- Optional: super-subtle divider to separate sections cleanly -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-_-00000000?style=flat&logo=github&labelColor=eceff4&color=eceff4" alt="" />
+</p>
