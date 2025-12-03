@@ -11,7 +11,7 @@
 <p align="center">
   <!-- Custom logos for niche tools -->
   <a href="https://langchain-ai.github.io/langgraph/" target="_blank">
-    <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/img/logo.svg" alt="LangGraph" width="36" />
+    <img src="https://images.seeklogo.com/logo-png/61/1/langchain-icon-logo-png_seeklogo-611655.png" alt="LangGraph" width="36" />
   </a>
   <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/vector-logo/616429/langgraph" alt="LangGraph" width="36" height="36"/>
