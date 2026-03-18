@@ -1,5 +1,7 @@
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A148C,50:7B1FA2,100:9C27B0&height=220&section=header&text=Swapneil%20Basutkar&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20RPA%20Engineer%20%7C%20Applied%20AI&descSize=20&descColor=ffffff&descAlignY=55" />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A148C,50:7B1FA2,100:9C27B0&height=220&section=header&text=Swapneil%20Basutkar&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35&desc=Backend%20and%20RPA%20Engineer%20|%20Applied%20AI&descSize=20&descColor=ffffff&descAlignY=55" />
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
