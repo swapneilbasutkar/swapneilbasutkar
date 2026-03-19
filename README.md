@@ -221,7 +221,7 @@ Developed enterprise automation frameworks with Python, Selenium, and RPA. Built
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=swapneilbasutkar&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&icon_color=9C27B0&title_color=7B1FA2&text_color=8B949E&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapneilbasutkar&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=7B1FA2&text_color=8B949E&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapneilbasutkar&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=7B1FA2&text_color=8B949E&langs_count=8&hide=jupyter%20notebook" />
 </div>
 
 <p align="center">
