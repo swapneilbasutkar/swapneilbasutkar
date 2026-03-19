@@ -1,6 +1,7 @@
 <!-- Animated Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A148C,50:7B1FA2,100:9C27B0&height=220&section=header&text=Swapneil%20Basutkar&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35&desc=Backend%20and%20RPA%20Engineer%20|%20Applied%20AI&descSize=20&descColor=ffffff&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Swapneil%20Basutkar&fontSize=50&fontColor=fff&animation=twinkling" />
+  <h3>Backend & RPA Engineer | Applied AI</h3>
 </div>
 
 <p align="center">
@@ -229,11 +230,9 @@ Developed enterprise automation frameworks with Python, Selenium, and RPA. Built
 
 <br/>
 
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swapneilbasutkar/swapneilbasutkar/output/github-snake-dark.svg" />
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swapneilbasutkar/swapneilbasutkar/output/github-snake.svg" />
-   <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/swapneilbasutkar/swapneilbasutkar/output/github-snake-dark.svg" width="100%" />
- </picture>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swapneilbasutkar&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=9C27B0&line=7B1FA2&point=9C27B0" width="100%" />
+</div>
 
 <br/>
 
@@ -252,4 +251,6 @@ Open to **Backend Engineering** and **Full Stack Engineering** roles where I can
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A148C,50:7B1FA2,100:9C27B0&height=120&section=footer" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+</div>
